@@ -8,7 +8,6 @@ public class exercicio_12 {
         boolean crachaValido;
         boolean capaceteSeguranca;
         boolean horarioTurno;
-        System.out.println("--- Sistema de Reconhecimento de Acesso ---");
         System.out.print("Crachá válido? (true/false): ");
         crachaValido = sc.nextBoolean();
         System.out.print("Capacete de segurança em uso? (true/false): ");
@@ -30,3 +29,4 @@ public class exercicio_12 {
         }
     }
 }}
+
